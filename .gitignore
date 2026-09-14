@@ -1,0 +1,11 @@
+# Build do Zensical — gerado pelo GitHub Actions a cada push
+site/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Sistema
+.DS_Store
+Thumbs.db
