@@ -17,6 +17,8 @@ nav = [
   { "Início" = "index.md" },
   { "Histórias de usuário" = [
     { "Visão geral" = "historias/index.md" },
+    { "EP01 · Portal & Autenticação" = "historias/ep01-portal-autenticacao.md" },
+    { "EP02 · Gestão de Usuários" = "historias/ep02-usuarios-perfis.md" },
   ]},
 ]
 
