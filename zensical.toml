@@ -20,6 +20,9 @@ nav = [
     { "EP01 · Portal & Autenticação" = "historias/ep01-portal-autenticacao.md" },
     { "EP02 · Gestão de Usuários" = "historias/ep02-usuarios-perfis.md" },
     { "EP03 · Cadastro de Acordos" = "historias/ep03-cadastro-acordos.md" },
+    { "EP04 · Acompanhamento de Parcelas" = "historias/ep04-parcelas.md" },
+    { "EP05 · Comissões e Metas" = "historias/ep05-comissoes-metas.md" },
+    { "EP06 · Painel do Cliente" = "historias/ep06-painel-cliente.md" },
   ]},
 ]
 
