@@ -19,6 +19,7 @@ nav = [
     { "Visão geral" = "historias/index.md" },
     { "EP01 · Portal & Autenticação" = "historias/ep01-portal-autenticacao.md" },
     { "EP02 · Gestão de Usuários" = "historias/ep02-usuarios-perfis.md" },
+    { "EP03 · Cadastro de Acordos" = "historias/ep03-cadastro-acordos.md" },
   ]},
 ]
 
