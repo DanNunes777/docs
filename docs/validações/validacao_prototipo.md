@@ -51,4 +51,4 @@ Assim, a validação confirmou a adequação do Design System ao contexto do sis
 
 | Versão | Data | Descrição | Autor | 
 | :----: | :--: | :-------: | :---: | 
-| 1.0 | 14/09/2026 | Elaboração da seção de validação | Daniel Nunes Duarte |
+| 1.0 | 14/09/2026 | Elaboração da seção de validação. | Daniel Nunes Duarte |
