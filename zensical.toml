@@ -24,6 +24,9 @@ nav = [
     { "EP05 · Comissões e Metas" = "historias/ep05-comissoes-metas.md" },
     { "EP06 · Painel do Cliente" = "historias/ep06-painel-cliente.md" },
   ]},
+  { "Rastreabilidade" = [
+    { "Matriz de rastreabilidade" = "rastreabilidade/matriz.md" },
+  ]},
 ]
 
 [project.theme]
